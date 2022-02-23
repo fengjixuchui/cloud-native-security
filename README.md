@@ -51,7 +51,10 @@
 - https://github.com/rosehgal/k8s-In-30Mins
 - https://github.com/cdk-team/CDK
 - https://github.com/4ndersonLin/awesome-cloud-security
-- https://github.com/Metarget
+- https://github.com/Metarget/awesome-cloud-native-security
+- https://github.com/Metarget/k0otkit
+- https://github.com/Metarget/metarget
+- https://github.com/Metarget/cloud-native-security-book
 - https://github.com/neargle
 - https://github.com/Xyntax
 - https://github.com/k8s-sec/
@@ -66,7 +69,6 @@
 - https://github.com/NetSPI/aws_consoler
 - https://github.com/dagrz/aws_pwn
 - https://github.com/bchew/dynamodump
-- https://github.com/fireeye/ADFSpoof
 - https://github.com/LMGsec/o365creeper
 - https://github.com/busterb/msmailprobe
 - https://github.com/nyxgeek/o365recon
