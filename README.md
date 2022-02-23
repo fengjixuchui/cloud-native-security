@@ -38,6 +38,12 @@
 - [红队视角下的公有云基础组件安全](https://mp.weixin.qq.com/s/r0DuASP6gH_48b5sJ1DCTw)
 - [云原生之Kubernetes安全](https://www.freebuf.com/articles/database/316788.html)
 - [红蓝对抗 | 容器环境红队手法总结](https://mp.weixin.qq.com/s/WaRECg79Nxx08iekakrlMA)
+- [K8s渗透测试etcd的利用](https://www.cdxy.me/?p=827)
+- [云原生架构下的API安全防护方案](https://www.cdxy.me/?p=845)
+- [K8s渗透测试之kube-apiserver利用](https://www.cdxy.me/?p=839)
+- [serverless functions攻防初探](https://www.cdxy.me/?p=836)
+- [K8s 6443批量入侵调查](https://www.cdxy.me/?p=833)
+- [容器逃逸方法](https://www.cdxy.me/?p=818)
 
 相关Github
 ---
