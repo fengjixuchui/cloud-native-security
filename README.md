@@ -78,3 +78,4 @@
 - https://github.com/mdsecactivebreach/o365-attack-toolkit
 - https://github.com/NetSPI/MicroBurst
 - https://github.com/RhinoSecurityLabs/GCPBucketBrute
+- https://github.com/pumasecurity/serverless-prey
