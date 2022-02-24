@@ -44,6 +44,9 @@
 - [serverless functions攻防初探](https://www.cdxy.me/?p=836)
 - [K8s 6443批量入侵调查](https://www.cdxy.me/?p=833)
 - [容器逃逸方法](https://www.cdxy.me/?p=818)
+- [AWS S3 对象存储攻防](https://mp.weixin.qq.com/s/aqTnyNgTSBan_FpqfFRb7Q)
+- [火线沙龙｜浅谈云原生环境信息收集技术](https://mp.weixin.qq.com/s/7dA_uUSAwFTE2e9IhheCrw)
+- [火线沙龙｜Cloud RedTeam视角下元数据服务攻防实践](https://mp.weixin.qq.com/s/7dA_uUSAwFTE2e9IhheCrw)
 
 相关Github
 ---
