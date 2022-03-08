@@ -52,7 +52,7 @@
 - [46 容器安全事件排查](https://mp.weixin.qq.com/s/BIdGl51UqoRtF_aU2Euu5Q)
 - [47《Kubernetes Hardening Guidance》中文版](https://jimmysong.io/kubernetes-hardening-guidance/)
 - [48 浅谈云上攻防——Kubelet访问控制机制与提权方法研究](https://mp.weixin.qq.com/s/jESETCZzB5ZsLnb6F2xFcQ)
-
+- [49 k8s安全入门](https://mp.weixin.qq.com/s/T2QGLlKwjaUByDtGFL94PQ)
 
 相关Github
 ---
