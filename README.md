@@ -86,3 +86,4 @@
 - https://github.com/RhinoSecurityLabs/GCPBucketBrute
 - https://github.com/pumasecurity/serverless-prey
 - https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools `存储桶的利用`
+- https://github.com/Ullaakut/Gorsair 
