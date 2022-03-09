@@ -53,6 +53,12 @@
 - [47《Kubernetes Hardening Guidance》中文版](https://jimmysong.io/kubernetes-hardening-guidance/)
 - [48 浅谈云上攻防——Kubelet访问控制机制与提权方法研究](https://mp.weixin.qq.com/s/jESETCZzB5ZsLnb6F2xFcQ)
 - [49 k8s安全入门](https://mp.weixin.qq.com/s/T2QGLlKwjaUByDtGFL94PQ)
+- [50 阿里云 OSS对象存储攻防](https://zone.huoxian.cn/d/918-oss)
+- [51 腾讯云COS对象存储攻防](https://zone.huoxian.cn/d/949-cos)
+- [52 谷歌云 对象存储攻防](https://zone.huoxian.cn/d/931)
+- [53 微软云 对象存储攻防](https://zone.huoxian.cn/d/940)
+- [54 华为云 OBS 对象存储攻防](https://zone.huoxian.cn/d/962-obs)
+
 
 相关Github
 ---
